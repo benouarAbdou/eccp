@@ -73,7 +73,7 @@ src/
 
 ### Application Screenshot
 
-![ECCP](\src\assets\screenshot.png)
+![ECCP](src\assets\screenshot.png)
 
 ## Installation
 
