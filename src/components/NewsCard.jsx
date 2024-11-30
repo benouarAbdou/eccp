@@ -5,7 +5,7 @@ const NewsCard = ({ title, description, date, imageUrl }) => {
 
   return (
     <div
-      className="bg-white rounded-lg  overflow-hidden cursor-pointer hover: transition duration-300"
+      className="bg-white rounded-lg  overflow-hidden cursor-pointer hover:scale-105 transition duration-700"
       onMouseEnter={() => setIsHovered(true)}
       onMouseLeave={() => setIsHovered(false)}
     >

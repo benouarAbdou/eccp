@@ -16,7 +16,7 @@ const Navbar = () => {
   ];
 
   return (
-    <nav className="sticky top-0 z-50  bg-[#efefef] flex justify-between items-center py-2 px-6">
+    <nav className="sticky top-0 z-50 bg-[#efefef] flex justify-between items-center py-2 px-6">
       {/* Logo */}
       <img src={logo} alt="Logo" className="w-[64px] h-full" />
 
@@ -60,7 +60,11 @@ const Navbar = () => {
                 key={nav.id}
                 className="font-normal cursor-pointer text-[16px] text-white mb-4 hover:text-yellow-300"
               >
-                <a href={`#${nav.id}`} className="text-white">
+                <a
+                  href={`#${nav.id}`}
+                  className="text-white"
+                  onClick={() => setToggle(false)}
+                >
                   {nav.title}
                 </a>
               </li>

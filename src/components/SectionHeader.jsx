@@ -15,7 +15,7 @@ const SectionHeader = ({ title, description, button1Text, button2Text }) => {
         <div className="flex gap-4 mt-4 sm:mt-0">
           {button1Text && (
             <button className="flex items-center px-4 py-2 bg-gray-200 text-black font-poppins font-medium rounded-lg hover:bg-gray-300 transition">
-              {button1Text} <FaFilePdf className="ml-2" />
+              {button1Text} <FaArrowRight className="ml-2" />
             </button>
           )}
           {button2Text && (
