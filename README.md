@@ -1,4 +1,4 @@
-# Algérie Poste Web Application
+# ECCP Rebranding
 
 ## Project Overview
 
