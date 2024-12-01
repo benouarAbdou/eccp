@@ -99,10 +99,6 @@ npm run build
 
 Our Algérie Poste web application is more than just a website—it's a vision of how digital government services can be reimagined. By choosing our solution, you're not just selecting a website, but investing in a future of intuitive, efficient, and user-friendly digital experiences.
 
-## Licensing & Collaboration
-
-- **License**: MIT License
-- **Open to Collaboration**: Continuous improvement through community and stakeholder feedback
 
 ## Contact
 
