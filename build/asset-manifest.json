@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/eccp/static/css/main.6dffb02f.css",
+    "main.js": "/eccp/static/js/main.516072a3.js",
+    "static/media/job2.png": "/eccp/static/media/job2.bbb862410f24c9736116.png",
+    "static/media/package.png": "/eccp/static/media/package.9e1d5ada84cf5d63ec92.png",
+    "static/media/job.png": "/eccp/static/media/job.6cf4ce04dd40e1752085.png",
+    "static/media/cards2.png": "/eccp/static/media/cards2.df2892925a84040b2e7a.png",
+    "static/media/handshake.png": "/eccp/static/media/handshake.707fd67956fe1295ea53.png",
+    "static/media/finance.png": "/eccp/static/media/finance.bafa3d4e7d8bb42c1082.png",
+    "static/media/cards.png": "/eccp/static/media/cards.bd8579bde6f7d35edff5.png",
+    "static/media/tamber.png": "/eccp/static/media/tamber.95732aec8f7bacf0e205.png",
+    "static/media/minister.jpg": "/eccp/static/media/minister.10eb6261fe12d98ba697.jpg",
+    "static/media/hackathon.jpg": "/eccp/static/media/hackathon.2d71b67843eaa43bd93d.jpg",
+    "static/media/logo.png": "/eccp/static/media/logo.03f6766e32be2749c29e.png",
+    "static/media/react.svg": "/eccp/static/media/react.6d4dd5dfc6163bdfcfe520bd6bef1a6a.svg",
+    "static/media/close.svg": "/eccp/static/media/close.a12fb46876f4952b62eb07651f79ed3d.svg",
+    "static/media/menu.svg": "/eccp/static/media/menu.a7c2fce33773f5b9f3562827b5b89bf1.svg",
+    "index.html": "/eccp/index.html",
+    "main.6dffb02f.css.map": "/eccp/static/css/main.6dffb02f.css.map",
+    "main.516072a3.js.map": "/eccp/static/js/main.516072a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6dffb02f.css",
+    "static/js/main.516072a3.js"
+  ]
+}
